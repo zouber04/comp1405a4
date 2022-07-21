@@ -10,3 +10,7 @@ Ice cream
 Cold battered cream
 7
 35
+Whipped Cream
+Fluffy beaten milk cream
+12
+44
