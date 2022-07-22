@@ -9,8 +9,8 @@ import logging;
 
 LOG = logging.getLogger(__name__)
 logging.basicConfig()
-logging.basicConfig(level=logging.DEBUG)
-LOG.setLevel(logging.DEBUG)
+logging.basicConfig(level=logging.ERROR)
+LOG.setLevel(logging.ERROR)
 
 product_list = [["a", "b", "c","d"], ["d", "e", "f","f"]]
                 

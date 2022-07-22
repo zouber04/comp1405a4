@@ -1,0 +1,16 @@
+Ham
+Pig meat
+30
+200
+Cereal
+Milled grains
+10
+400
+Ice cream
+Cold battered cream
+7
+35
+Whipped Cream
+Fluffy beaten milk cream
+12
+44
