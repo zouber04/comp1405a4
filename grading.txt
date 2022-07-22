@@ -53,6 +53,9 @@ P7 (list_products):
     - the inner loop is unnecessary...
     - you can write the implementation using a single loop
 
+P8 (main, system menu):
+    - not implemented
+
 Overall:
     - make a helper function to check that the product name exists in the product list instead of 
         re-writing the code each time 
